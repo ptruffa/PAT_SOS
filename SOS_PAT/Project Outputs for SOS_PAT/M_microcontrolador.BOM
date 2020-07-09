@@ -1,0 +1,66 @@
+Bill of Material for 
+On 05-04-2019 at 11:21:04
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               CAPACITORE0805    5    C30, C31, C32, C33, C34      Electrolitic Capacitor 
+ 10k                 ResistorSMD0805    1    R28                          Chip Resistor SMD    
+ 267                 ResistorSMD0805    1    R34                          Chip Resistor SMD    
+ 30VDC               Varistor         1    TVS1                         Varistor SMD         
+ 4.7k                ResistorSMD0805    2    R26, R27                     Chip Resistor SMD    
+ 470                 ResistorSMD1206    1    R29                          Chip Resistor SMD    
+ 51pF                Capacitor0805    2    C18, C19                     Ceramic Capacitor    
+ Aluminio            Capacitor0805    1    C28                          Ceramic Capacitor    
+ AUDIO AMP_TPA3111D1_28-TSSOP-EP_EIL CHIP_TSSOP-28 EXPOSED PAD LARGO 9.7MM/ANCHO 4.4MM/PITCH 0.65MM - REFLOW    1    U1                           IC AMP AUD PWR 10W MONO 28HTSSOP_AMPLIFICADOR CLASE D 10W 28-HTSSOP EXPOSED PAD 
+ Audio OPi           CUI_SJ-43515RS-SMT    3    J1, J3, J4                                        
+ AUX                 TBHDR2P3.5VERTICAL    1    P9                           Connector 2 positions with pitch 3.5mm 
+ BAT                 TBHDR2P3.5VERTICAL    1    P13                          Connector 2 positions with pitch 3.5mm 
+ BJT                 BJT              1    Q3                           Transistor BJT       
+ BTN/LED             TBHDR4P3.5       1    P7                           Connector 4 positions 
+ CapacitorSMD        Capacitor0805    8    C20, C21, C22, C23, C24, C25 Ceramic Capacitor    
+                                           C26, C27
+ Crystal             CRYSTALSMDMini    1    Y1                           Crystal SMD          
+ D_GP                SMA              1    D2                           Single Diode Rectifier SMD 
+ DB9-GSM             CONN_5747844-6    1    J2                           Imported             
+ DCDC 5V/3A          OKR              1    U9                           Non-Isolated PoL Module DC DC Converter 1 Output 0.59 ~ 6 V 3A 4.5V - 14V Input 
+ DIODE_EIL           DIOD_SOD123 - REFLOW    1    D1                           DIODE GEN PURP 100V 150MA SOD123 
+ door                TBHDR2P3.5VERTICAL    1    P8                           Connector 2 positions with pitch 3.5mm 
+ ICSP                MALE6PIN         1    P11                          Pin Header Male 6 Pins Pitch 2.54mm 
+ LedSMD              SMD1206          3    LED1, LED2, LED3             Discrete Led SMD 1205 Green 
+ LH1518AAB           SOIC254P1005X390-6N    2    U4, U6                       LH1518AAB Series SPST _1 Form A_ Solid State Relay Surface Mount - SMD-6 
+ LIS3DETR            LGA16R50P5X3_300X300X100N    1    U8                           MEMS digital output motion sensor ultra low-power high performance 3-axes nano accelerometer 
+ MediaConv           TBHDR2P3.5VERTICAL    1    P14                          Connector 2 positions with pitch 3.5mm 
+ MIC_OPi             TBHDR2P3.5VERTICAL    1    P3                           Connector 2 positions with pitch 3.5mm 
+ MIC                 TBHDR2P3.5VERTICAL    1    P2                           Connector 2 positions with pitch 3.5mm 
+ MUXA_TS5A22362DGSR_10-MSOP_EIL CHIP_MSOP-10 LARGO 3.0MM/ANCHO 3.0MM/PITCH 0.5MM - REFLOW    2    U2, U3                       IC SWITCH DUAL SPDT 10MSOP_5-V/3.3-V 2-CHANNEL 2:1 MULTIPLEXER/DEMULTIPLEXER ANALOGICO +/- VIN 10-MSOP 
+ Operacional         SO8              1    U5                           2channel Vcc=4-16Vmax 
+ OPi                 MALE2x20PIN      1    P10                          Pin Header Male 40 Pins Pitch 2.54mm 
+ OUT1                TBHDR2P3.5VERTICAL    1    P4                           Connector 2 positions with pitch 3.5mm 
+ OUT2                TBHDR2P3.5VERTICAL    1    P6                           Connector 2 positions with pitch 3.5mm 
+ PASS_CAP_EIL        PASS_CAPC0603 - REFLOW   15    C1, C2, C3, C5, C6, C7, C8   CAP CER 0.1UF 25V X7R 0603 
+                                           C10, C11, C12, C14, C16, C17
+                                           C35, C36
+ PASS_CAP_EIL        PASS_CAPC0805 - REFLOW    1    C15                          CAP CER 10UF 25V X5R 0805 
+ PASS_CAP_EIL        PASS_CAPC1206 - REFLOW    2    C9, C13                      CAP CER 0.68UF 50V X7R 1206 
+ PASS_CAPPOL_EIL     PASS_CAPPOL_SMD-F    1    C4                           CAP ALUM 100UF 20% 35V SMD 
+ PASS_FERRITEBEAD_EIL PASS_FER0805 - REFLOW    4    L1, L4, L6, L8               FERRITE BEAD 220 OHM 0805 1LN 
+ PASS_FERRITEBEAD_EIL PASS_FER1812 - REFLOW    2    L2, L7                       FERRITE BEAD 70 OHM 1812 1LN 
+ PASS_L_EIL          PASS_INDUCT_BOURNS_SRU1063    2    L3, L5                       FIXED IND 22UH 3A 60 MOHM SMD 
+ PASS_R_EIL          PASS_RESC0603 - REFLOW    7    R3, R5, R7, R8, R9, R10, R32 RES SMD 100K OHM 1% 1/10W 0603 
+ PASS_R_EIL          PASS_RESC0805 - REFLOW    2    R1, R11                      RES SMD 10K OHM 1% 1/10W 0603 
+ PIC24FJ128GB204-I/PT QFP80P1200X1200X120-44N    1    U7                           128KB Flash, 8KB RAM, 16 MIPS, USB OTG, Crypto, 44 TQFP 10x10x1mm TRAY 
+ PV                  TBHDR2P3.5VERTICAL    1    P5                           Connector 2 positions with pitch 3.5mm 
+ PWRGSM              TBHDR2P3.5VERTICAL    1    P15                          Connector 2 positions with pitch 3.5mm 
+ Regulator 3.3V      OKI78SR          1    U10                          Regulator DC-DC 3.3V 1.5A 
+ RELAY_METALTEX_MB1RC-5V_SPDT_EIL RELAY_METALTEX_MB1RC-5V_SPDT THR    1    K1                           RELAY GENERAL PURPOSE SPDT 1A 5V 
+ ResistorSMD         ResistorSMD0805   14    R12, R13, R14, R15, R16, R17 Chip Resistor SMD    
+                                           R18, R19, R20, R21, R22, R23
+                                           R24, R25
+ SP3232EBCN          SP3232EBCN       1    U11                          Serial Adapter RS232 
+ SPK                 TBHDR2P3.5VERTICAL    1    P1                           Connector 2 positions with pitch 3.5mm 
+ SW_DIP2_EIL         SWIT_DIP-2- RAISED THR    1    SW1                          SWITCH TIN CONT 2 SEC 50V 
+ Tactile Switch      TactileSwitch    1    SW2                          Switch Contact       
+ TBBTB2x5            TBBTB2x5         1    P17                          Connector board to board 2 Rows, 5 Columns Pitch 2.54mm 
+ TBHDR2P2.5          TBR2.5           1    P16                          Connector 2 positions with pitch 3.5mm 
+ TEST POINT_EIL      MISC_TESTPOINT THR    1    TP1                          TESTPOINT            
+ TRAN_BJT_NPN_EIL    3PIN_SOT-23 BJT - REFLOW    3    Q1, Q2, Q4                   TRANS NPN 45V 0.5A SOT23 

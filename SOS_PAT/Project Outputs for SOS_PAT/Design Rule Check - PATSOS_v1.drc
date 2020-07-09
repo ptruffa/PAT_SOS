@@ -1,0 +1,367 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Pablo\Documents\Altium Workspace\Projects\SOS_PAT\PATSOS_v1.PcbDoc
+Date     : 05-04-2019
+Time     : 11:10:39
+
+Processing Rule : Minimum Annular Ring (Minimum=0.152mm) (All)
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (77.8mm,31.8mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (84mm,10.6mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (84.9mm,18mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (84.3mm,20.3mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (77.3mm,21.5mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (51.3mm,67mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (54.8mm,51.1mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (45mm,69.1mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (60.7mm,23mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (29mm,43.8mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (51.6mm,41.2mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (55.9mm,43.8mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (55.8mm,41.5mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (46.85mm,18.75mm) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (0.102mm < 0.152mm) : Via (47.3mm,25.5mm) Top Layer to Bottom Layer
+Rule Violations :15
+
+Processing Rule : Room M_PWR (Bounding Region = (154.7mm, 62.3mm, 166.4mm, 68.8mm) (InComponentClass('M_PWR'))
+Rule Violations :0
+
+Processing Rule : Room M_microcontrolador (Bounding Region = (153.8mm, 44.8mm, 172.3mm, 50.9mm) (InComponentClass('M_microcontrolador'))
+Rule Violations :0
+
+Processing Rule : Room M_GPIO_ADC (Bounding Region = (152mm, 36.9mm, 164.3mm, 42.8mm) (InComponentClass('M_GPIO_ADC'))
+Rule Violations :0
+
+Processing Rule : Room M_Audio (Bounding Region = (155.65mm, 52.8mm, 167.7mm, 61mm) (InComponentClass('M_Audio'))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (41.8mm,7.55mm)(41.8mm,14.4mm)  Top Layer
+   Violation between Net Antennae: Track (49.016mm,64.484mm)(50.5mm,63mm)  Bottom Layer
+Rule Violations :2
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (21.15mm,83mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (55.48mm,84.188mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (28.65mm,83mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Arc (16.55mm,83mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (42.107mm,82.773mm)(42.107mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (42.107mm,89.199mm)(58.693mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (58.693mm,82.773mm)(58.693mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (42.107mm,82.773mm)(58.693mm,82.773mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (34.677mm,83.027mm)(66.123mm,83.027mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (64.802mm,83.027mm)(64.802mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (61.246mm,89.199mm)(64.802mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (61.246mm,83.027mm)(61.246mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (39.554mm,83.027mm)(39.554mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (35.998mm,89.199mm)(39.554mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (35.998mm,83.027mm)(35.998mm,89.199mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (22.4mm,83.25mm)(27.4mm,83.25mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (40.113mm,83.172mm)(60.687mm,83.172mm)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (22.4mm,83.25mm)(27.4mm,83.25mm)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (10.3mm,83.25mm)(15.3mm,83.25mm)  Bottom Overlay
+Rule Violations :19
+
+Processing Rule : Silk to Silk (Clearance=0.152mm) (All),(All)
+   Violation between Text "+ -" (12.6mm,7.7mm)  Top Overlay and 
+                     Track (9.409mm,7.567mm)(17.791mm,7.567mm)  Top Overlay
+   Violation between Text "+ -" (9.5mm,60.5mm)  Top Overlay and 
+                     Track (10.988mm,54.81mm)(10.988mm,64.61mm)  Top Overlay
+   Violation between Text "+ -" (9.5mm,60.5mm)  Top Overlay and 
+                     Text "MIC_OPi" (8.4mm,60.7mm)  Top Overlay
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Track (36.612mm,26.64mm)(39.152mm,29.18mm)  Top Overlay and 
+                     Pad L3-1(42.2mm,29.1mm)  Top Layer
+   Violation between Track (45.248mm,29.18mm)(47.788mm,26.64mm)  Top Overlay and 
+                     Pad L3-1(42.2mm,29.1mm)  Top Layer
+   Violation between Track (36.612mm,21.56mm)(39.152mm,19.02mm)  Top Overlay and 
+                     Pad L3-2(42.2mm,19.1mm)  Top Layer
+   Violation between Track (45.248mm,19.02mm)(47.788mm,21.56mm)  Top Overlay and 
+                     Pad L3-2(42.2mm,19.1mm)  Top Layer
+   Violation between Track (40.3mm,58.045mm)(43.684mm,58.045mm)  Top Overlay and 
+                     Pad C4-2(44.7mm,57.639mm)  Top Layer
+   Violation between Track (45.716mm,58.045mm)(49.1mm,58.045mm)  Top Overlay and 
+                     Pad C4-2(44.7mm,57.639mm)  Top Layer
+   Violation between Track (42.008mm,49.337mm)(43.7mm,49.337mm)  Top Overlay and 
+                     Pad C4-1(44.7mm,49.65mm)  Top Layer
+   Violation between Track (45.716mm,49.337mm)(47.492mm,49.337mm)  Top Overlay and 
+                     Pad C4-1(44.7mm,49.65mm)  Top Layer
+   Violation between Track (109.2mm,15.7mm)(109.2mm,15.9mm)  Top Overlay and 
+                     Pad U8-5(108.925mm,15.4mm)  Top Layer
+   Violation between Track (109.2mm,12.9mm)(109.2mm,13.1mm)  Top Overlay and 
+                     Pad U8-1(108.925mm,13.4mm)  Top Layer
+   Violation between Track (106.2mm,12.9mm)(106.2mm,13.1mm)  Top Overlay and 
+                     Pad U8-13(106.475mm,13.4mm)  Top Layer
+   Violation between Track (106.2mm,15.7mm)(106.2mm,15.9mm)  Top Overlay and 
+                     Pad U8-9(106.475mm,15.4mm)  Top Layer
+   Violation between Track (106.2mm,15.9mm)(106.9mm,15.9mm)  Top Overlay and 
+                     Pad U8-8(107.2mm,15.625mm)  Top Layer
+   Violation between Track (108.5mm,15.9mm)(109.2mm,15.9mm)  Top Overlay and 
+                     Pad U8-6(108.2mm,15.625mm)  Top Layer
+   Violation between Track (33.348mm,29.18mm)(35.888mm,26.64mm)  Top Overlay and 
+                     Pad L5-1(30.3mm,29.1mm)  Top Layer
+   Violation between Track (24.712mm,26.64mm)(27.252mm,29.18mm)  Top Overlay and 
+                     Pad L5-1(30.3mm,29.1mm)  Top Layer
+   Violation between Track (33.348mm,19.02mm)(35.888mm,21.56mm)  Top Overlay and 
+                     Pad L5-2(30.3mm,19.1mm)  Top Layer
+   Violation between Track (24.712mm,21.56mm)(27.252mm,19.02mm)  Top Overlay and 
+                     Pad L5-2(30.3mm,19.1mm)  Top Layer
+   Violation between Track (40.113mm,73.774mm)(60.687mm,73.774mm)  Top Overlay and 
+                     Pad J2-9(54.553mm,74.823mm)  Multi-Layer
+   Violation between Track (40.113mm,73.774mm)(60.687mm,73.774mm)  Top Overlay and 
+                     Pad J2-8(51.784mm,74.823mm)  Multi-Layer
+   Violation between Track (40.113mm,73.774mm)(60.687mm,73.774mm)  Top Overlay and 
+                     Pad J2-7(49.016mm,74.823mm)  Multi-Layer
+   Violation between Track (40.113mm,73.774mm)(60.687mm,73.774mm)  Top Overlay and 
+                     Pad J2-6(46.247mm,74.823mm)  Multi-Layer
+   Violation between Track (17.92mm,20.678mm)(18.722mm,20.678mm)  Top Overlay and 
+                     Pad K1-9(19.28mm,20.66mm)  Multi-Layer
+   Violation between Track (14.2mm,13.04mm)(19.28mm,13.04mm)  Top Overlay and 
+                     Pad K1-5(14.2mm,13.04mm)  Multi-Layer
+   Violation between Track (14.2mm,13.04mm)(19.28mm,13.04mm)  Top Overlay and 
+                     Pad K1-6(19.28mm,13.04mm)  Multi-Layer
+   Violation between Track (17.502mm,23.2mm)(19.28mm,23.2mm)  Top Overlay and 
+                     Pad K1-10(19.28mm,23.2mm)  Multi-Layer
+   Violation between Track (14.2mm,23.2mm)(15.978mm,23.2mm)  Top Overlay and 
+                     Pad K1-1(14.2mm,23.2mm)  Multi-Layer
+   Violation between Track (14.729mm,20.678mm)(15.53mm,20.678mm)  Top Overlay and 
+                     Pad K1-2(14.2mm,20.66mm)  Multi-Layer
+Rule Violations :28
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Pad U8-6(108.2mm,15.625mm)  Top Layer and 
+                     Pad U8-5(108.925mm,15.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-5(108.925mm,15.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-4(108.925mm,14.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-4(108.925mm,14.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-3(108.925mm,14.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-3(108.925mm,14.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-2(108.925mm,13.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-2(108.925mm,13.9mm)  Top Layer
+   Violation between Pad U8-16(108.2mm,13.175mm)  Top Layer and 
+                     Pad U8-1(108.925mm,13.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-1(108.925mm,13.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-16(108.2mm,13.175mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-15(107.7mm,13.175mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-15(107.7mm,13.175mm)  Top Layer
+   Violation between Pad U8-13(106.475mm,13.4mm)  Top Layer and 
+                     Pad U8-14(107.2mm,13.175mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-14(107.2mm,13.175mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-13(106.475mm,13.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-12(106.475mm,13.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-12(106.475mm,13.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-11(106.475mm,14.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-11(106.475mm,14.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-10(106.475mm,14.9mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-10(106.475mm,14.9mm)  Top Layer
+   Violation between Pad U8-8(107.2mm,15.625mm)  Top Layer and 
+                     Pad U8-9(106.475mm,15.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-9(106.475mm,15.4mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-8(107.2mm,15.625mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-7(107.7mm,15.625mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-7(107.7mm,15.625mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U8-6(108.2mm,15.625mm)  Top Layer
+   Violation between Pad U7-43(92.8mm,36.67mm)  Top Layer and 
+                     Pad U7-44(92mm,36.67mm)  Top Layer
+   Violation between Pad U7-42(93.6mm,36.67mm)  Top Layer and 
+                     Pad U7-43(92.8mm,36.67mm)  Top Layer
+   Violation between Pad U7-41(94.4mm,36.67mm)  Top Layer and 
+                     Pad U7-42(93.6mm,36.67mm)  Top Layer
+   Violation between Pad U7-40(95.2mm,36.67mm)  Top Layer and 
+                     Pad U7-41(94.4mm,36.67mm)  Top Layer
+   Violation between Pad U7-39(96mm,36.67mm)  Top Layer and 
+                     Pad U7-40(95.2mm,36.67mm)  Top Layer
+   Violation between Pad U7-35(99.2mm,36.67mm)  Top Layer and 
+                     Pad U7-34(100mm,36.67mm)  Top Layer
+   Violation between Pad U7-36(98.4mm,36.67mm)  Top Layer and 
+                     Pad U7-35(99.2mm,36.67mm)  Top Layer
+   Violation between Pad U7-37(97.6mm,36.67mm)  Top Layer and 
+                     Pad U7-36(98.4mm,36.67mm)  Top Layer
+   Violation between Pad U7-38(96.8mm,36.67mm)  Top Layer and 
+                     Pad U7-37(97.6mm,36.67mm)  Top Layer
+   Violation between Pad U7-39(96mm,36.67mm)  Top Layer and 
+                     Pad U7-38(96.8mm,36.67mm)  Top Layer
+   Violation between Pad U7-32(101.67mm,34.2mm)  Top Layer and 
+                     Pad U7-33(101.67mm,35mm)  Top Layer
+   Violation between Pad U7-31(101.67mm,33.4mm)  Top Layer and 
+                     Pad U7-32(101.67mm,34.2mm)  Top Layer
+   Violation between Pad U7-30(101.67mm,32.6mm)  Top Layer and 
+                     Pad U7-31(101.67mm,33.4mm)  Top Layer
+   Violation between Pad U7-29(101.67mm,31.8mm)  Top Layer and 
+                     Pad U7-30(101.67mm,32.6mm)  Top Layer
+   Violation between Pad U7-28(101.67mm,31mm)  Top Layer and 
+                     Pad U7-29(101.67mm,31.8mm)  Top Layer
+   Violation between Pad U7-24(101.67mm,27.8mm)  Top Layer and 
+                     Pad U7-23(101.67mm,27mm)  Top Layer
+   Violation between Pad U7-25(101.67mm,28.6mm)  Top Layer and 
+                     Pad U7-24(101.67mm,27.8mm)  Top Layer
+   Violation between Pad U7-26(101.67mm,29.4mm)  Top Layer and 
+                     Pad U7-25(101.67mm,28.6mm)  Top Layer
+   Violation between Pad U7-27(101.67mm,30.2mm)  Top Layer and 
+                     Pad U7-26(101.67mm,29.4mm)  Top Layer
+   Violation between Pad U7-28(101.67mm,31mm)  Top Layer and 
+                     Pad U7-27(101.67mm,30.2mm)  Top Layer
+   Violation between Pad U7-21(99.2mm,25.33mm)  Top Layer and 
+                     Pad U7-22(100mm,25.33mm)  Top Layer
+   Violation between Pad U7-20(98.4mm,25.33mm)  Top Layer and 
+                     Pad U7-21(99.2mm,25.33mm)  Top Layer
+   Violation between Pad U7-19(97.6mm,25.33mm)  Top Layer and 
+                     Pad U7-20(98.4mm,25.33mm)  Top Layer
+   Violation between Pad U7-18(96.8mm,25.33mm)  Top Layer and 
+                     Pad U7-19(97.6mm,25.33mm)  Top Layer
+   Violation between Pad U7-17(96mm,25.33mm)  Top Layer and 
+                     Pad U7-18(96.8mm,25.33mm)  Top Layer
+   Violation between Pad U7-13(92.8mm,25.33mm)  Top Layer and 
+                     Pad U7-12(92mm,25.33mm)  Top Layer
+   Violation between Pad U7-14(93.6mm,25.33mm)  Top Layer and 
+                     Pad U7-13(92.8mm,25.33mm)  Top Layer
+   Violation between Pad U7-15(94.4mm,25.33mm)  Top Layer and 
+                     Pad U7-14(93.6mm,25.33mm)  Top Layer
+   Violation between Pad U7-16(95.2mm,25.33mm)  Top Layer and 
+                     Pad U7-15(94.4mm,25.33mm)  Top Layer
+   Violation between Pad U7-17(96mm,25.33mm)  Top Layer and 
+                     Pad U7-16(95.2mm,25.33mm)  Top Layer
+   Violation between Pad U7-10(90.33mm,27.8mm)  Top Layer and 
+                     Pad U7-11(90.33mm,27mm)  Top Layer
+   Violation between Pad U7-9(90.33mm,28.6mm)  Top Layer and 
+                     Pad U7-10(90.33mm,27.8mm)  Top Layer
+   Violation between Pad U7-8(90.33mm,29.4mm)  Top Layer and 
+                     Pad U7-9(90.33mm,28.6mm)  Top Layer
+   Violation between Pad U7-7(90.33mm,30.2mm)  Top Layer and 
+                     Pad U7-8(90.33mm,29.4mm)  Top Layer
+   Violation between Pad U7-6(90.33mm,31mm)  Top Layer and 
+                     Pad U7-7(90.33mm,30.2mm)  Top Layer
+   Violation between Pad U7-2(90.33mm,34.2mm)  Top Layer and 
+                     Pad U7-1(90.33mm,35mm)  Top Layer
+   Violation between Pad U7-3(90.33mm,33.4mm)  Top Layer and 
+                     Pad U7-2(90.33mm,34.2mm)  Top Layer
+   Violation between Pad U7-4(90.33mm,32.6mm)  Top Layer and 
+                     Pad U7-3(90.33mm,33.4mm)  Top Layer
+   Violation between Pad U7-5(90.33mm,31.8mm)  Top Layer and 
+                     Pad U7-4(90.33mm,32.6mm)  Top Layer
+   Violation between Pad U7-6(90.33mm,31mm)  Top Layer and 
+                     Pad U7-5(90.33mm,31.8mm)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-29(37.175mm,49.977mm)  Multi-Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Pad U1-29(31.975mm,49.977mm)  Multi-Layer
+   Violation between Pad U9-2(64.9mm,53.2mm)  Multi-Layer and 
+                     Pad U9-1(64.9mm,51.5mm)  Multi-Layer
+   Violation between Pad U9-3(64.9mm,54.9mm)  Multi-Layer and 
+                     Pad U9-2(64.9mm,53.2mm)  Multi-Layer
+   Violation between Pad U9-4(64.9mm,56.6mm)  Multi-Layer and 
+                     Pad U9-3(64.9mm,54.9mm)  Multi-Layer
+   Violation between Pad U9-5(64.9mm,58.3mm)  Multi-Layer and 
+                     Pad U9-4(64.9mm,56.6mm)  Multi-Layer
+   Violation between Via (91.1mm,41mm) Top Layer to Bottom Layer and 
+                     Via (90.9mm,41.8mm) Top Layer to Bottom Layer
+   Violation between Via (86.5mm,41.9mm) Top Layer to Bottom Layer and 
+                     Via (86.4mm,41mm) Top Layer to Bottom Layer
+   Violation between Via (35.6mm,63.6mm) Top Layer to Bottom Layer and 
+                     Via (35.7mm,62.7mm) Top Layer to Bottom Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+Rule Violations :89
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Pad J1-None(24.9mm,70.25mm)  Multi-Layer and 
+                     Pad J4-None(24.9mm,70.25mm)  Multi-Layer
+   Violation between Pad J1-None(24.9mm,77.25mm)  Multi-Layer and 
+                     Pad J4-None(24.9mm,77.25mm)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Pad U8-4(108.925mm,14.9mm)  Top Layer and 
+                     Pad U8-5(108.925mm,15.4mm)  Top Layer
+   Violation between Pad U8-3(108.925mm,14.4mm)  Top Layer and 
+                     Pad U8-4(108.925mm,14.9mm)  Top Layer
+   Violation between Pad U8-1(108.925mm,13.4mm)  Top Layer and 
+                     Pad U8-2(108.925mm,13.9mm)  Top Layer
+   Violation between Pad U8-14(107.2mm,13.175mm)  Top Layer and 
+                     Pad U8-15(107.7mm,13.175mm)  Top Layer
+   Violation between Pad U8-11(106.475mm,14.4mm)  Top Layer and 
+                     Pad U8-12(106.475mm,13.9mm)  Top Layer
+   Violation between Pad U8-10(106.475mm,14.9mm)  Top Layer and 
+                     Pad U8-11(106.475mm,14.4mm)  Top Layer
+   Violation between Pad U8-9(106.475mm,15.4mm)  Top Layer and 
+                     Pad U8-10(106.475mm,14.9mm)  Top Layer
+   Violation between Pad U8-7(107.7mm,15.625mm)  Top Layer and 
+                     Pad U8-8(107.2mm,15.625mm)  Top Layer
+   Violation between Pad U8-6(108.2mm,15.625mm)  Top Layer and 
+                     Pad U8-7(107.7mm,15.625mm)  Top Layer
+Rule Violations :9
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad J1-None(24.9mm,70.25mm)  Multi-Layer and 
+                     Pad J4-None(24.9mm,70.25mm)  Multi-Layer
+   Violation between Pad J1-None(24.9mm,77.25mm)  Multi-Layer and 
+                     Pad J4-None(24.9mm,77.25mm)  Multi-Layer
+Rule Violations :2
+
+
+Violations Detected : 169
+Time Elapsed        : 00:00:05
