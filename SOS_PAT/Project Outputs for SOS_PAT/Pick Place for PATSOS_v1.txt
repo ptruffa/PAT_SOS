@@ -1,0 +1,120 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C36        PASS_CAPC0603_-_REFLOW   1950.787mil   1192.913mil   1980.315mil   1192.913mil   1980.315mil   1192.913mil  T        180.00 PASS_CAP_EIL   
+C35        PASS_CAPC0603_-_REFLOW   1883.858mil   2685.039mil   1913.386mil   2685.039mil   1913.386mil   2685.039mil  T        180.00 PASS_CAP_EIL   
+P17        TBBTB2x5          1984.252mil   3094.488mil   1984.252mil   3094.488mil   2184.252mil   3144.488mil  T        180.00 TBBTB2x5       
+C1         PASS_CAPC0603_-_REFLOW   1647.638mil   1775.591mil    1618.11mil   1775.591mil    1618.11mil   1775.591mil  T        360.00 PASS_CAP_EIL   
+C2         PASS_CAPC0603_-_REFLOW    905.512mil   2450.787mil    905.512mil   2480.315mil    905.512mil   2480.315mil  T        270.00 PASS_CAP_EIL   
+C3         PASS_CAPC0603_-_REFLOW    1789.37mil   2448.819mil   1818.898mil   2448.819mil   1818.898mil   2448.819mil  T        180.00 PASS_CAP_EIL   
+C4         PASS_CAPPOL_SMD-F   1759.842mil   2111.996mil   1759.842mil   1925.197mil   1759.842mil   1954.724mil  T        360.00 PASS_CAPPOL_EIL
+C5         PASS_CAPC0603_-_REFLOW    980.315mil   2450.787mil    980.315mil   2480.315mil    980.315mil   2480.315mil  T        270.00 PASS_CAP_EIL   
+C6         PASS_CAPC0603_-_REFLOW   1059.055mil   2261.811mil   1059.055mil   2291.339mil   1059.055mil   2291.339mil  T        270.00 PASS_CAP_EIL   
+C7         PASS_CAPC0603_-_REFLOW   1149.606mil   2265.748mil   1149.606mil   2295.276mil   1149.606mil   2295.276mil  T        270.00 PASS_CAP_EIL   
+C8         PASS_CAPC0603_-_REFLOW   1521.654mil   1645.669mil   1551.181mil   1645.669mil   1551.181mil   1645.669mil  T        180.00 PASS_CAP_EIL   
+C9         PASS_CAPC1206_-_REFLOW   1586.614mil    566.929mil   1645.669mil    566.929mil   1645.669mil    566.929mil  T        180.00 PASS_CAP_EIL   
+C10        PASS_CAPC0603_-_REFLOW       1750mil   1287.402mil   1779.528mil   1287.402mil   1779.528mil   1287.402mil  T        180.00 PASS_CAP_EIL   
+C11        PASS_CAPC0603_-_REFLOW   1135.827mil   1271.653mil   1165.354mil   1271.653mil   1165.354mil   1271.653mil  T        180.00 PASS_CAP_EIL   
+C12        PASS_CAPC0603_-_REFLOW    1921.26mil    2486.22mil    1921.26mil   2456.693mil    1921.26mil   2456.693mil  T         90.00 PASS_CAP_EIL   
+C13        PASS_CAPC1206_-_REFLOW   1283.465mil    566.929mil    1342.52mil    566.929mil    1342.52mil    566.929mil  T        180.00 PASS_CAP_EIL   
+C14        PASS_CAPC0603_-_REFLOW   1305.118mil   1641.732mil   1334.646mil   1641.732mil   1334.646mil   1641.732mil  T        180.00 PASS_CAP_EIL   
+C15        PASS_CAPC0805_-_REFLOW    1342.52mil   2259.843mil    1342.52mil   2220.472mil    1342.52mil   2220.472mil  T         90.00 PASS_CAP_EIL   
+C16        PASS_CAPC0603_-_REFLOW   1996.063mil   1714.567mil   1996.063mil   1685.039mil   1996.063mil   1685.039mil  T         90.00 PASS_CAP_EIL   
+C17        PASS_CAPC0603_-_REFLOW   2133.858mil   1714.567mil   2133.858mil   1685.039mil   2133.858mil   1685.039mil  T         90.00 PASS_CAP_EIL   
+C18        Capacitor0805     4204.724mil    807.087mil   4204.724mil    807.087mil   4204.724mil    846.457mil  T        270.00 51pF           
+C19        Capacitor0805     4358.268mil     803.15mil   4358.268mil     803.15mil   4358.268mil     842.52mil  T        270.00 51pF           
+C20        Capacitor0805     4405.512mil   1295.276mil   4405.512mil   1295.276mil   4444.882mil   1295.276mil  T        180.00 CapacitorSMD   
+C21        Capacitor0805     4405.512mil   1385.827mil   4405.512mil   1385.827mil   4444.882mil   1385.827mil  T        180.00 CapacitorSMD   
+C22        Capacitor0805     3744.095mil   1641.732mil   3744.095mil   1641.732mil   3744.095mil   1681.102mil  T        270.00 CapacitorSMD   
+C23        Capacitor0805     3338.583mil   1220.472mil   3338.583mil   1220.472mil   3299.213mil   1220.472mil  T        360.00 CapacitorSMD   
+C24        Capacitor0805     4208.661mil   1153.543mil   4208.661mil   1153.543mil   4248.032mil   1153.543mil  T        180.00 CapacitorSMD   
+C25        Capacitor0805     3338.583mil   1070.866mil   3338.583mil   1070.866mil   3299.213mil   1070.866mil  T        360.00 CapacitorSMD   
+C26        Capacitor0805     3751.968mil    807.087mil   3751.968mil    807.087mil   3751.968mil    846.457mil  T        270.00 CapacitorSMD   
+C27        Capacitor0805     4248.032mil    354.331mil   4248.032mil    354.331mil   4248.032mil    314.961mil  T         90.00 CapacitorSMD   
+C28        Capacitor0805      4381.89mil    354.331mil    4381.89mil    354.331mil    4381.89mil    314.961mil  T         90.00 Aluminio       
+D1         DIOD_SOD123_-_REFLOW    669.291mil   1062.992mil    669.291mil   1062.992mil    605.315mil   1062.992mil  T          0.00 DIODE_EIL      
+D2         SMA               2814.961mil    582.677mil   2814.961mil    503.937mil   2814.961mil    484.252mil  T         90.00 D_GP           
+J1         CUI_SJ-43515RS-SMT    980.315mil   2954.724mil    980.315mil   2913.386mil    834.646mil   3194.882mil  T        270.00 Audio OPi      
+J2         CONN_5747844-6    1984.252mil    2889.78mil   1984.252mil    3263.78mil   1766.252mil    2833.78mil  T        360.00 DB9-GSM        
+K1         RELAY_METALTEX_MB1RC-5V_SPDT_THR    659.055mil    713.386mil    559.055mil    913.386mil    559.055mil    913.386mil  T        270.00 RELAY_METALTEX_MB1RC-5V_SPDT_EIL
+L1         PASS_FER0805_-_REFLOW    814.961mil   2456.693mil    814.961mil   2417.323mil    814.961mil   2417.323mil  T         90.00 PASS_FERRITEBEAD_EIL
+L2         PASS_FER1812_-_REFLOW   1559.055mil   1370.866mil   1559.055mil   1452.756mil   1559.055mil   1452.756mil  T        270.00 PASS_FERRITEBEAD_EIL
+L3         PASS_INDUCT_BOURNS_SRU1063   1661.417mil    948.819mil   1661.417mil    948.819mil   1661.417mil    1145.67mil  T        270.00 PASS_L_EIL     
+L4         PASS_FER0805_-_REFLOW   1708.661mil   1409.449mil   1708.661mil   1448.819mil   1708.661mil   1448.819mil  T        270.00 PASS_FERRITEBEAD_EIL
+L5         PASS_INDUCT_BOURNS_SRU1063   1192.913mil    948.819mil   1192.913mil    948.819mil   1192.913mil    1145.67mil  T        270.00 PASS_L_EIL     
+L6         PASS_FER0805_-_REFLOW   1181.102mil   1401.575mil   1181.102mil   1440.945mil   1181.102mil   1440.945mil  T        270.00 PASS_FERRITEBEAD_EIL
+L7         PASS_FER1812_-_REFLOW   1338.583mil   1359.055mil   1338.583mil   1440.945mil   1338.583mil   1440.945mil  T        270.00 PASS_FERRITEBEAD_EIL
+L8         PASS_FER0805_-_REFLOW   2279.528mil   1791.339mil   2279.528mil   1830.709mil   2279.528mil   1830.709mil  T        270.00 PASS_FERRITEBEAD_EIL
+LED1       SMD1206            2618.11mil   1330.709mil    2618.11mil   1330.709mil   2559.055mil   1330.709mil  T        180.00 LedSMD         
+LED2       SMD1206            2618.11mil   1452.756mil    2618.11mil   1452.756mil   2559.055mil   1452.756mil  T        180.00 LedSMD         
+LED3       SMD1206            2618.11mil   1551.181mil    2618.11mil   1551.181mil   2559.055mil   1551.181mil  T        180.00 LedSMD         
+P1         TBHDR2P3.5VERTICAL   1492.126mil    177.165mil   1492.126mil    177.165mil   1561.024mil    177.165mil  T        180.00 SPK            
+P2         TBHDR2P3.5VERTICAL   1834.646mil    177.165mil   1834.646mil    177.165mil   1903.543mil    177.165mil  T        180.00 MIC            
+P3         TBHDR2P3.5VERTICAL    177.165mil   2291.339mil    177.165mil   2291.339mil    177.165mil   2222.441mil  T         90.00 MIC_OPi        
+P4         TBHDR2P3.5VERTICAL    177.165mil   1259.842mil    177.165mil   1259.842mil    177.165mil   1190.945mil  T         90.00 OUT1           
+P5         TBHDR2P3.5VERTICAL   2519.685mil    177.165mil   2519.685mil    177.165mil   2588.583mil    177.165mil  T        180.00 PV             
+P6         TBHDR2P3.5VERTICAL    177.165mil    917.323mil    177.165mil    917.323mil    177.165mil    848.425mil  T         90.00 OUT2           
+P7         TBHDR4P3.5        1013.779mil    192.913mil   1082.677mil    192.913mil   1220.473mil    192.913mil  T        180.00 BTN/LED        
+P8         TBHDR2P3.5VERTICAL    177.165mil   1602.362mil    177.165mil   1602.362mil    177.165mil   1533.465mil  T         90.00 door           
+P9         TBHDR2P3.5VERTICAL    177.165mil   1944.882mil    177.165mil   1944.882mil    177.165mil   1875.984mil  T         90.00 AUX            
+P10        MALE2x20PIN        4813.78mil   1390.945mil    4863.78mil    440.945mil    4863.78mil    440.945mil  T         90.00 OPi            
+P11        MALE6PIN          3870.079mil    204.724mil   3870.079mil    204.724mil   3620.079mil    204.724mil  B        360.00 ICSP           
+P13        TBHDR2P3.5VERTICAL   2177.165mil    177.165mil   2177.165mil    177.165mil   2246.063mil    177.165mil  T        180.00 BAT            
+P14        TBHDR2P3.5VERTICAL    177.165mil    574.803mil    177.165mil    574.803mil    177.165mil    505.906mil  T         90.00 MediaConv      
+Q1         3PIN_SOT-23_BJT_-_REFLOW   1474.409mil   2259.843mil   1511.811mil   2311.024mil   1474.409mil   2208.661mil  T        180.00 TRAN_BJT_NPN_EIL
+Q2         3PIN_SOT-23_BJT_-_REFLOW   1509.842mil   2586.614mil   1547.244mil   2637.795mil   1509.842mil   2535.433mil  T        180.00 TRAN_BJT_NPN_EIL
+Q3         BJT               2612.205mil   1665.354mil   2612.205mil   1665.354mil   2564.961mil   1665.354mil  T         90.00 BJT            
+Q4         3PIN_SOT-23_BJT_-_REFLOW   2610.236mil   1809.055mil   2661.417mil   1771.653mil   2559.055mil   1809.055mil  T         90.00 TRAN_BJT_NPN_EIL
+R3         PASS_RESC0603_-_REFLOW   1645.669mil   2435.039mil   1645.669mil   2405.512mil   1645.669mil   2405.512mil  T         90.00 PASS_R_EIL     
+R5         PASS_RESC0603_-_REFLOW   1509.842mil   2456.693mil   1480.315mil   2456.693mil   1480.315mil   2456.693mil  T          0.00 PASS_R_EIL     
+R7         PASS_RESC0603_-_REFLOW   1663.386mil   2622.047mil   1692.913mil   2622.047mil   1692.913mil   2622.047mil  T        180.00 PASS_R_EIL     
+R8         PASS_RESC0603_-_REFLOW    1236.22mil   2265.748mil    1236.22mil    2236.22mil    1236.22mil    2236.22mil  T         90.00 PASS_R_EIL     
+R9         PASS_RESC0603_-_REFLOW    820.866mil    2263.78mil    791.338mil    2263.78mil    791.338mil    2263.78mil  T        360.00 PASS_R_EIL     
+R10        PASS_RESC0603_-_REFLOW    820.866mil   2338.583mil    850.394mil   2338.583mil    791.339mil   2338.583mil  T        180.00 PASS_R_EIL     
+R11        PASS_RESC0805_-_REFLOW   4468.504mil   1519.685mil   4507.874mil   1519.685mil   4507.874mil   1519.685mil  T        180.00 PASS_R_EIL     
+R12        ResistorSMD0805   3874.016mil   1641.732mil   3874.016mil   1641.732mil   3874.016mil   1604.331mil  T         90.00 ResistorSMD    
+R13        ResistorSMD0805   2984.252mil    614.173mil   2984.252mil    614.173mil   2984.252mil    651.575mil  T        270.00 ResistorSMD    
+R14        ResistorSMD0805   3594.488mil    370.079mil   3594.488mil    370.079mil   3557.087mil    370.079mil  T        360.00 ResistorSMD    
+R15        ResistorSMD0805    3967.52mil   1641.732mil    3967.52mil   1641.732mil    3967.52mil   1604.331mil  T         90.00 ResistorSMD    
+R16        ResistorSMD0805   3673.228mil    527.559mil   3673.228mil    527.559mil    3710.63mil    527.559mil  T        180.00 ResistorSMD    
+R17        ResistorSMD0805   3114.173mil     539.37mil   3114.173mil     539.37mil   3114.173mil    501.969mil  T         90.00 ResistorSMD    
+R18        ResistorSMD0805    2842.52mil    1342.52mil    2842.52mil    1342.52mil   2879.921mil    1342.52mil  T        180.00 ResistorSMD    
+R19        ResistorSMD0805   4061.024mil   1641.732mil   4061.024mil   1641.732mil   4061.024mil   1604.331mil  T         90.00 ResistorSMD    
+R20        ResistorSMD0805    2842.52mil   1445.866mil    2842.52mil   1445.866mil   2879.921mil   1445.866mil  T        180.00 ResistorSMD    
+R21        ResistorSMD0805   2279.528mil   1629.921mil   2279.528mil   1629.921mil   2279.528mil   1667.323mil  T        270.00 ResistorSMD    
+R22        ResistorSMD0805    2842.52mil   1637.795mil    2842.52mil   1637.795mil   2879.921mil   1637.795mil  T        180.00 ResistorSMD    
+R23        ResistorSMD0805    2842.52mil   1548.228mil    2842.52mil   1548.228mil   2879.921mil   1548.228mil  T        180.00 ResistorSMD    
+R24        ResistorSMD0805   4248.031mil   1641.732mil   4248.031mil   1641.732mil   4248.031mil   1604.331mil  T         90.00 ResistorSMD    
+R25        ResistorSMD0805   4154.528mil   1641.732mil   4154.528mil   1641.732mil   4154.528mil   1604.331mil  T         90.00 ResistorSMD    
+R26        ResistorSMD0805   4204.724mil    988.189mil   4204.724mil    988.189mil   4204.724mil    950.787mil  T         90.00 4.7k           
+R27        ResistorSMD0805   4358.268mil    984.252mil   4358.268mil    984.252mil   4358.268mil     946.85mil  T         90.00 4.7k           
+R28        ResistorSMD0805   3834.646mil    338.583mil   3834.646mil    338.583mil   3872.047mil    338.583mil  T        180.00 10k            
+R29        ResistorSMD1206   3897.638mil    543.307mil   3897.638mil    543.307mil   3897.638mil    484.252mil  T         90.00 470            
+R32        PASS_RESC0603_-_REFLOW   2836.614mil   1728.347mil   2807.087mil   1728.347mil   2807.087mil   1728.347mil  T          0.00 PASS_R_EIL     
+SW1        SWIT_DIP-2-_RAISED_THR    581.496mil   2350.787mil    531.496mil   2200.787mil    531.496mil   2200.787mil  T         90.00 SW_DIP2_EIL    
+SW2        TactileSwitch      507.874mil   2850.394mil    507.874mil   2850.394mil    419.291mil    2678.15mil  T         90.00 Tactile Switch 
+TP1        MISC_TESTPOINT_THR    185.039mil   2968.504mil    185.039mil   2968.504mil    185.039mil   2968.504mil  T          0.00 TEST POINT_EIL 
+TVS1       Varistor          2547.244mil    555.118mil   2547.244mil    555.118mil   2547.244mil    702.756mil  T          0.00 30VDC          
+U1         CHIP_TSSOP-28_EXPOSED_PAD_LARGO_9.7MM/ANCHO_4.4MM/PITCH_0.65MM_-_REFLOW   1361.218mil   1967.614mil   1527.559mil   2086.614mil   1527.559mil   2086.614mil  T        270.00 AUDIO AMP_TPA3111D1_28-TSSOP-EP_EIL
+U2         CHIP_MSOP-10_LARGO_3.0MM/ANCHO_3.0MM/PITCH_0.5MM_-_REFLOW   1244.094mil   2484.252mil   1161.417mil   2523.622mil   1161.417mil   2523.622mil  T        360.00 MUXA_TS5A22362DGSR_10-MSOP_EIL
+U3         CHIP_MSOP-10_LARGO_3.0MM/ANCHO_3.0MM/PITCH_0.5MM_-_REFLOW    2078.74mil   1511.811mil   1996.063mil   1551.181mil   1996.063mil   1551.181mil  T        360.00 MUXA_TS5A22362DGSR_10-MSOP_EIL
+U4         SOIC254P1005X390-6N    714.567mil   1807.087mil    714.567mil   1807.087mil    899.606mil   1707.087mil  T        180.00 LH1518AAB      
+U5         SO8                3368.11mil     582.48mil   3251.968mil     657.48mil   3251.968mil     657.48mil  T        360.00 Operacional    
+U6         SOIC254P1005X390-6N    714.567mil   1409.449mil    714.567mil   1409.449mil    899.606mil   1309.449mil  T        180.00 LH1518AAB      
+U7         QFP80P1200X1200X120-44N   3779.528mil   1220.472mil   3779.528mil   1220.472mil   3556.299mil   1377.953mil  T        360.00 PIC24FJ128GB204-I/PT
+U8         LGA16R50P5X3_300X300X100N   4240.158mil    566.929mil   4240.158mil    566.929mil   4288.386mil    527.559mil  T        180.00 LIS3DETR       
+U10        OKI78SR           2271.653mil    2157.48mil   2271.653mil    2157.48mil   2271.653mil    2057.48mil  T        180.00 Regulator 3.3V 
+Y1         CRYSTALSMDMini    4212.598mil   1338.583mil   4212.598mil   1338.583mil   4255.905mil   1265.748mil  T         90.00 Crystal        
+R34        ResistorSMD0805   2866.142mil   2200.787mil   2866.142mil   2200.787mil   2866.142mil   2238.189mil  T        270.00 267            
+U9         OKR               2555.118mil   2161.417mil   2555.118mil   2027.559mil   2555.118mil   2027.559mil  T        270.00 DCDC 5V/3A     
+P15        TBHDR2P3.5VERTICAL    535.433mil    177.913mil    535.433mil    177.913mil    604.331mil    177.913mil  T        180.00 PWRGSM         
+C30        CAPACITORE0805    3814.961mil   1968.504mil   3814.961mil   1968.504mil   3814.961mil   1929.134mil  T         90.00 0.1uF          
+C31        CAPACITORE0805    3212.598mil    1960.63mil   3212.598mil    1960.63mil   3212.598mil    1921.26mil  T         90.00 0.1uF          
+C32        CAPACITORE0805    4011.811mil   1976.378mil   4011.811mil   1976.378mil   4011.811mil   2015.748mil  T        270.00 0.1uF          
+C33        CAPACITORE0805    3814.961mil   2141.732mil   3814.961mil   2141.732mil   3814.961mil   2102.362mil  T         90.00 0.1uF          
+C34        CAPACITORE0805    4011.811mil   2145.669mil   4011.811mil   2145.669mil   4011.811mil   2106.299mil  T         90.00 0.1uF          
+U11        SP3232EBCN        3519.685mil   2110.236mil   3519.685mil   2110.236mil   3637.795mil   1935.236mil  T        180.00 SP3232EBCN     
+P16        TBR2.5             3210.63mil    259.842mil   3259.843mil    259.842mil   3259.843mil    259.842mil  T        180.00 TBHDR2P2.5     
+R1         PASS_RESC0805_-_REFLOW   3019.685mil   1153.543mil   3059.055mil   1153.543mil   3059.055mil   1153.543mil  T        180.00 PASS_R_EIL     
+J3         CUI_SJ-43515RS-SMT    503.937mil   2954.724mil    503.937mil   2913.386mil    649.606mil   3194.882mil  B        270.00 Audio OPi      
+J4         CUI_SJ-43515RS-SMT    980.315mil   2954.724mil    980.315mil   2913.386mil   1125.984mil   3194.882mil  B        270.00 Audio OPi      
+
