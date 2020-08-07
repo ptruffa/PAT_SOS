@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/SOS_PAT_IP_GSM_vCOLOMBIA_3.0.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>1896</used>
+      <free>6296</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131316</length>
+      <used>28425</used>
+      <free>102891</free>
+    </memory>
+  </executable>
+</project>
